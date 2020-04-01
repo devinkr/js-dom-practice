@@ -1,11 +1,4 @@
 /*
- * I Do:
- *
- * Watch me as I:
- *   - use the querySelector  methods to retrieve elements from the DOM
- */
-
-/*
  * You Do: Work through the following prompts. Write your code below each
  * comment.
  */
