@@ -1,11 +1,4 @@
 /*
- * I Do:
- *
- * Watch me as I:
- *   - Get data from a DOM node.
- */
-
-/*
  * You Do: Work through the following prompts. Write your code below each
  * comment.
  */
