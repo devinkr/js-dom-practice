@@ -42,9 +42,9 @@ Use the following methods of DOM nodes to update the content of the DOM:
 The following are the three methods we can use to work with classes on a DOM
 node:
 
-1. `.addClass()`
-1. `.removeClass()`
-1. `.toggleClass()`
+1. `.classList.add()`
+1. `.classList.remove()`
+1. `.classList.toggle()`
 
 ## 5. Working with `data-*` Attributes
 
