@@ -1,11 +1,4 @@
 /*
- * I Do:
- *
- * Watch me as I:
- *   - use the `classList` API to update the classes on a node.
- */
-
-/*
  * You Do: Work through the following prompts. Write your code below each
  * comment.
  */
