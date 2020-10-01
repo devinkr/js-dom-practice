@@ -1,11 +1,4 @@
 /*
- * I Do:
- *
- * Watch me as I:
- *   - Use the methods/properties for managing a DOM Node's content
- */
-
-/*
  * You Do: Work through the following prompts. Write your code below each
  * comment.
  */
