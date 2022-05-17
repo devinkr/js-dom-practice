@@ -34,8 +34,11 @@ Use the following methods of DOM nodes to update the content of the DOM:
 * `innerHTML`
 * `outerHTML`
 * `innerText`
-* `outerText`
 * `textContent`
+
+Comment out `queryselector.js` in `index.html` and uncomment
+`dom_content.js`. Then open up `dom_content.js` and work through the
+prompts.
 
 ## 4. Working with the `classList` API
 
@@ -46,10 +49,20 @@ node:
 1. `.classList.remove()`
 1. `.classList.toggle()`
 
+Comment out `dom_content.js` in `index.html` and uncomment
+`classlist.js`. Then open up `classlist.js` and work through the
+prompts.
+
+data-attribute
 ## 5. Working with `data-*` Attributes
 
 Use the `data-*` attribute to add data to a DOM node. You can get that data in
 JavaScript with a node's `dataset` property.
+
+
+Comment out `classlist.js` in `index.html` and uncomment
+`data-attribute.js`. Then open up `data-attribute.js` and work through the
+prompts.
 
 ## [License](LICENSE)
 
